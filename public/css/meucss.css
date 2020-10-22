@@ -12,6 +12,10 @@ header {
     background-image: url(../img/ouro-rosa.jpg);
 }
 
+footer {
+    background-image: url(../img/ouro-rosa.jpg);
+}
+
 .menu {
     background-image: url(../img/-desfoque1.jpg);
     background-size: 100%;
@@ -30,4 +34,23 @@ h1 {
 @font-face {
     font-family: ".menu";
     src: url(../fonts/BADUY.otf);
+}
+
+@font-face {
+    font-family: "qualquer";
+    src: url(../fonts/Bellerose.ttf);
+}
+
+.list-group-item {
+    background: transparent;
+    font-family: "qualquer";
+}
+
+ul a {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.caixa .card {
+    background-color: transparent;
 }

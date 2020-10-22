@@ -31,10 +31,6 @@
                 echo '<link rel="stylesheet" href="public/css/meucss.css">';
                 break;
 
-                // case 'footer':
-                // echo '<link rel="stylesheet" href="public/css/footer.css">';
-                // break;
-
             default:
                 # code...
                 break;
