@@ -5,7 +5,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Notícias</a>
+                        <a href="?pg=noticias" style="color: rgb(255, 0, 179);">Notícias</a>
                     </h5>
                     <p class="card-text lead" style="color:#EBD1D8;">
                         Fofocas Diárias, Atualizações...
@@ -15,17 +15,17 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Vi no IG</a>
+                        <a href="#" style="color: rgb(255, 0, 179);">GOSSIPFY</a>
                     </h5>
                     <p class="card-text lead" style="color: #D0DBF7;">
-                        Melhores Filtros, Famosos mais seguidos...
+                        Ouça nossas músicas, também, no Spotify!
                     </p>
                 </div>
             </div>
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">PlayLists</a>
+                        <a href="?ph=musicas" style="color: rgb(255, 0, 179);">PlayLists</a>
                     </h5>
                     <p class="card-text lead" style="color:#ff0037;">
                         Top 10 da semana
