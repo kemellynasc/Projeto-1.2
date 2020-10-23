@@ -21,3 +21,6 @@ ul a {
 .caixa .card {
     background-color: transparent;
 }
+header {
+    background-image: url(../img/ouro-rosa.jpg);
+}

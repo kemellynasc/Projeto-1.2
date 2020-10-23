@@ -30,6 +30,9 @@
                 case 'inicial':
                 echo '<link rel="stylesheet" href="public/css/meucss.css">';
                 break;
+                case 'sobre':
+                echo '<link rel="stylesheet" href="public/css/sobre.css">';
+                break;
 
             default:
                 # code...
@@ -73,7 +76,7 @@
                         <a class="nav-link btn-outline-secondary" href="?pg=inicial">Home <span class="sr-only">(página atual)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link  btn-outline-secondary" href="">Sobre</a>
+                        <a class="nav-link  btn-outline-secondary" href="?pg=sobre">Sobre</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled" href="#"></a>

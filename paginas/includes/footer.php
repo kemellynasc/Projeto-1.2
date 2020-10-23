@@ -24,11 +24,14 @@
 
         <div class="caixa col-3 text-center">
             <div class="card border-danger mb-3" style="max-width: 18rem;">
-                <div class="card-body text-danger">
-                    <h6 class="card-text"> <span class="Mila-mail4"></span> contato@gossip.com</h6>
-                    <h6 class="card-text"> <span class="Mila-instagram"></span> Gossip_Girl</h6>
-                    <h6 class="card-text"> <span class="Mila-twitter"></span> @GossipGirls</h6>
-                    <h6 class="card-text"> <span class="Mila-spotify"></span> GOSSIPFY</h6>
+                <div class="card-body" style="color: blanchedalmond;">
+                    <h5 class="card-text"> <span class="Mila-mail4"></span> contato@gossip.com</h5>
+                    <br>
+                    <h5 class="card-text"> <span class="Mila-instagram"></span> Gossip_Girl</h5>
+                    <br>
+                    <h5 class="card-text"> <span class="Mila-twitter"></span> @GossipGirls</h5>
+                    <br>
+                    <h5 class="card-text"> <span class="Mila-spotify"></span> GOSSIPFY</h5>
                 </div>
             </div>
         </div>
