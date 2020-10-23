@@ -30,3 +30,26 @@ h1 {
     font-family: ".menu";
     font-size: 100px;
 }
+
+footer {
+    background-image: url(../img/ouro-rosa.jpg);
+}
+
+@font-face {
+    font-family: "qualquer";
+    src: url(../fonts/Bellerose.ttf);
+}
+
+.list-group-item {
+    background: transparent;
+    font-family: "qualquer";
+}
+
+ul a {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.caixa .card {
+    background-color: transparent;
+}

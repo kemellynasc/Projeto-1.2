@@ -15,6 +15,9 @@ if ($paginas) {
                 case'templantes':
                     include_once "paginas/templantes.php";
                     break;
+                case'sobre':
+                    include_once "paginas/sobre.php";
+                    break;
         default:
             # code...
             break;

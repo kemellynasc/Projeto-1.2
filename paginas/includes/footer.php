@@ -18,7 +18,9 @@
             </ul>
         </div>
 
-        <div class="col"></div>
+        <div class="col">
+            <img src="" alt="">
+        </div>
 
         <div class="caixa col-3 text-center">
             <div class="card border-danger mb-3" style="max-width: 18rem;">
