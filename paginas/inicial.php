@@ -25,7 +25,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="?ph=musicas" style="color: rgb(255, 0, 179);">PlayLists</a>
+                        <a href="?pg=musicas" style="color: rgb(255, 0, 179);">PlayLists</a>
                     </h5>
                     <p class="card-text lead" style="color:#ff0037;">
                         Top 10 da semana
@@ -111,7 +111,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Wallpaper</a>
+                        <a href="?pg=wallpaper" style="color: rgb(255, 0, 179);">Wallpaper</a>
                     </h5>
                     <p class="card-text lead" style="color:#D8A9DB;">
                         aesthetic, tumblr,

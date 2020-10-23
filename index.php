@@ -27,6 +27,9 @@ if ($paginas) {
                 case'cadastro':
                     include_once "paginas/cadastro.php";
                     break;
+                case'wallpaper':
+                    include_once "paginas/wallpaper.php";
+                    break;
         default:
             # code...
             break;

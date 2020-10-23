@@ -2,7 +2,7 @@
 
     <div class="container">
         <hr>
-        <h4> AS 10 MÚSICAS MAIS TOCADAS DA SEMANA, NAS PRINCIPAIS RÁDIOS DO BRASIL!</h4>
+        <h3 style="color: whitesmoke;"> AS 10 MÚSICAS MAIS TOCADAS DA SEMANA, NAS PRINCIPAIS RÁDIOS DO BRASIL!</h3>
         <hr>
         <div>
             <div class="row align-items-center">

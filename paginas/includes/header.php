@@ -30,11 +30,20 @@
                 case 'inicial':
                 echo '<link rel="stylesheet" href="public/css/meucss.css">';
                 break;
+                case 'musicas':
+                echo '<link rel="stylesheet" href="public/css/meucss.css">';
+                break;
+                case 'cadastro':
+                echo '<link rel="stylesheet" href="public/css/meucss.css">';
+                break;
                 case 'sobre':
                 echo '<link rel="stylesheet" href="public/css/sobre.css">';
                 break;
                 case 'noticias':
                 echo '<link rel="stylesheet" href="public/css/noticias.css">';
+                break;
+                case 'wallpaper':
+                echo '<link rel="stylesheet" href="public/css/wallpaper.css">';
                 break;
 
             default:

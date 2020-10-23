@@ -2,17 +2,23 @@
 @font-face {
     font-family: "plin";
     src: url(../fonts/riesling.ttf);
-    font-size: 90px;
+    
 }
 .menu {
-    background-image: url(../img/kee6a429af860c91ed307ca581707c21b6c.gif);
+    background-image: url(../img/Papel-Scrapbook-Hot-Stamping-Litoarte-SH30-052-30x30cm-Flor-de-Lis-Dourado-Fundo-Branco.webp);
     background-size: 35%;
 }
 
 h1{
+
+    font-family: "plin";
+    font-size: 80px;
+}
+
+.plin h1{
     font-family: "plin";
     src: url(../fonts/riesling.ttf);
-    font-size: 300px;
+    font-size: 200px;
 }
 
 footer {
