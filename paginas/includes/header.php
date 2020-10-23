@@ -33,6 +33,9 @@
                 case 'sobre':
                 echo '<link rel="stylesheet" href="public/css/sobre.css">';
                 break;
+                case 'noticias':
+                echo '<link rel="stylesheet" href="public/css/noticias.css">';
+                break;
 
             default:
                 # code...
