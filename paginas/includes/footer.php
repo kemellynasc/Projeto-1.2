@@ -20,12 +20,13 @@
 
         <div class="col"></div>
 
-        <div class="caixa col-3">
+        <div class="caixa col-3 text-center">
             <div class="card border-danger mb-3" style="max-width: 18rem;">
-                <div class="card-header"></div>
                 <div class="card-body text-danger">
-                    <h5 class="card-title">Título de Card Danger</h5>
-                    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                    <h6 class="card-text"> <span class="Mila-mail4"></span> contato@gossip.com</h6>
+                    <h6 class="card-text"> <span class="Mila-instagram"></span> Gossip_Girl</h6>
+                    <h6 class="card-text"> <span class="Mila-twitter"></span> @GossipGirls</h6>
+                    <h6 class="card-text"> <span class="Mila-spotify"></span> GOSSIPFY</h6>
                 </div>
             </div>
         </div>
