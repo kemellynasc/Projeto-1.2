@@ -15,7 +15,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">GOSSIPFY</a>
+                        <a href="https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm?si=8wLhUSNFQJqsQNfF7ZkfqA" style="color: rgb(255, 0, 179);">GOSSIPFY</a>
                     </h5>
                     <p class="card-text lead" style="color: #D0DBF7;">
                         Ouça nossas músicas, também, no Spotify!
