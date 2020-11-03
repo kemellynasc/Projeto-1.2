@@ -7,7 +7,7 @@
                 e sub-celebridades. E não paramos por aí! Em nossa plataforma, você encontrará Horóscopos diários, as melhores novidades
                 do mundo da música, notícias e muito mais.
                 <br>
-                <br> XoXo, Gossip Girl's.
+                <br> XoXo, Gossip Girl's...
             </h6>
         </div>
     </div>
