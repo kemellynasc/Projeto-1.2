@@ -5,7 +5,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Notícias</a>
+                        <a href="?pg=noticias" style="color: rgb(255, 0, 179);">Notícias</a>
                     </h5>
                     <p class="card-text lead" style="color:#EBD1D8;">
                         Fofocas Diárias, Atualizações...
@@ -15,17 +15,17 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Vi no IG</a>
+                        <a href="https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm?si=8wLhUSNFQJqsQNfF7ZkfqA" style="color: rgb(255, 0, 179);">GOSSIPFY</a>
                     </h5>
                     <p class="card-text lead" style="color: #D0DBF7;">
-                        Melhores Filtros, Famosos mais seguidos...
+                        Ouça nossas músicas, também, no Spotify!
                     </p>
                 </div>
             </div>
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">PlayLists</a>
+                        <a href="?pg=musicas" style="color: rgb(255, 0, 179);">PlayLists</a>
                     </h5>
                     <p class="card-text lead" style="color:#ff0037;">
                         Top 10 da semana
@@ -82,7 +82,7 @@
 
                     <h5 class="card-title"  style="color:#EBD1D8;">As notícias mais acessadas no momento:</h5>
                     <p class="card-text"  style="color:#EBD1D8;">Para mais detalhes vá para aba de Notícias!!</p>
-                    <p class="card-text"  style="color:#EBD1D8;"><small class="text-muted">Atualizados 3 minutos atrás</small></p>
+                    <p class="card-text"  style="color:#EBD1D8;"><small class="text-muted">Atualizados 1 minutos atrás</small></p>
                 </div>
             </div>
         </div>
@@ -91,7 +91,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Templates</a>
+                        <a href="?pg=templantes" style="color: rgb(255, 0, 179);">Templates</a>
                     </h5>
                     <p class="card-text lead" style="color:#DB9693;">
                         Os melhores para você
@@ -101,7 +101,7 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Horóscopo</a>
+                        <a href="?pg=dailyhoroscope" style="color: rgb(255, 0, 179);">Horóscopo</a>
                     </h5>
                     <p class="card-text lead" style="color:#f8afc5;">
                         Atualizações diarias sobre seu signo
@@ -111,10 +111,11 @@
             <div class="card mb-3" style="max-width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        <a href="#" style="color: rgb(255, 0, 179);">Wallpaper</a>
+                        <a href="?pg=wallpaper" style="color: rgb(255, 0, 179);">Wallpaper</a>
                     </h5>
                     <p class="card-text lead" style="color:#D8A9DB;">
-                        aesthetic, tumblr, vintages/retrô
+                        aesthetic, tumblr,
+                        <br> vintages/retrô
                     </p>
                 </div>
             </div>

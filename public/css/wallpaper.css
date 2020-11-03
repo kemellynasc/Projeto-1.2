@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "plin";
+    src: url(../fonts/riesling.ttf);
+}
+@font-face{
+    font-family: ".menu";
+    src: url(../IMGFONTS/CollegiateFLF.ttf);
+}
+@font-face {
+    font-family: ".test";
+    src: url(../IMGFONTS/All\ Star\ Resort.ttf);
+}
+header {
+    background-image: url(../img/ouro-rosa.jpg);
+}
+
+.menu {
+    background-image: url(../IMGFONTS/80fd20a9f0a1ebf64d4e0261cdaa0132.jpg) ;
+    background-size: 60%;
+}
+
+footer {
+    background-image: url(../img/ouro-rosa-textura-de-glitter-particulas-douradas_160081-288.webp);
+}
+
+h1 {
+    font-family: "plin";
+    font-size: 85px;
+}
+.menu h1 {
+    font-family: ".menu";
+    font-size: 70px;
+}
+.test h2 {
+    font-family:".test";
+    font-size: 30px;
+}
+
+@font-face {
+    font-family: "qualquer";
+    src: url(../fonts/Bellerose.ttf);
+}
+
+.list-group-item {
+    background: transparent;
+    font-family: "qualquer";
+}
+
+ul a {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.caixa .card {
+    background-color: transparent;
+}

@@ -1,0 +1,30 @@
+
+footer {
+    background-image: url(../img/ouro-rosa.jpg);
+}
+
+@font-face {
+    font-family: "qualquer";
+    src: url(../fonts/Bellerose.ttf);
+}
+
+.list-group-item {
+    background: transparent;
+    font-family: "qualquer";
+}
+
+ul a {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.caixa .card {
+    background-color: transparent;
+}
+header {
+    background-image: url(../img/ouro-rosa.jpg);
+}
+
+.menu{
+    background-image: url(../img/Papel-Scrapbook-Hot-Stamping-Litoarte-SH30-052-30x30cm-Flor-de-Lis-Dourado-Fundo-Branco.webp);
+}
